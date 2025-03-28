@@ -1,7 +1,0 @@
-streamlit
-pandas
-matplotlib
-openpyxl
-PyPDF2
-wetterdienst
-cryptography
